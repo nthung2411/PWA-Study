@@ -142,7 +142,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>11/28/2016 17:07:02</publishTime>
+      <publishTime>11/28/2016 17:43:15</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>11/28/2016 17:17:34</publishTime>
@@ -157,7 +157,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/28/2016 17:23:57</publishTime>
     </File>
     <File Include="styles/inline.css">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:42:42</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>11/28/2016 17:17:34</publishTime>
