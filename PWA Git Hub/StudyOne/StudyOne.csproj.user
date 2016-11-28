@@ -3,6 +3,7 @@
   <PropertyGroup>
     <UseIISExpress>true</UseIISExpress>
     <ProjectView>ProjectFiles</ProjectView>
+    <NameOfLastUsedPublishProfile>PWA publish</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
