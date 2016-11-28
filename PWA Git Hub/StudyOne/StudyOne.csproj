@@ -106,8 +106,32 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="images\clear.png" />
+    <Content Include="images\cloudy-scattered-showers.png" />
+    <Content Include="images\cloudy.png" />
+    <Content Include="images\cloudy_s_sunny.png" />
+    <Content Include="images\fog.png" />
+    <Content Include="images\icons\icon-128x128.png" />
+    <Content Include="images\icons\icon-144x144.png" />
+    <Content Include="images\icons\icon-152x152.png" />
+    <Content Include="images\icons\icon-192x192.png" />
+    <Content Include="images\icons\icon-256x256.png" />
+    <Content Include="images\icons\icon-32x32.png" />
+    <Content Include="images\ic_add_white_24px.svg" />
+    <Content Include="images\ic_refresh_white_24px.svg" />
+    <Content Include="images\partly-cloudy.png" />
+    <Content Include="images\rain.png" />
+    <Content Include="images\scattered-showers.png" />
+    <Content Include="images\sleet.png" />
+    <Content Include="images\snow.png" />
+    <Content Include="images\thunderstorm.png" />
+    <Content Include="images\wind.png" />
+    <Content Include="index.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
+    <Content Include="scripts\app.js" />
+    <Content Include="styles\inline.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
