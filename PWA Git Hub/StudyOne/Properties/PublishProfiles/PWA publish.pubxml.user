@@ -6,113 +6,113 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\PWA Publishes\StudyOne</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\Projects\PWA Git Version - Github\docs</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
-      <publishTime>11/28/2016 16:02:57</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/ApplicationInsights.config">
-      <publishTime>11/28/2016 16:02:57</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
-      <publishTime>12/07/2015 19:04:38</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.DependencyCollector.dll">
-      <publishTime>03/10/2016 14:26:18</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
-      <publishTime>03/09/2016 12:00:14</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Web.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.WindowsServer.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>11/28/2016 17:17:33</publishTime>
     </File>
     <File Include="bin/Microsoft.ApplicationInsights.dll">
-      <publishTime>03/09/2016 11:57:34</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>06/15/2015 02:06:24</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
-      <publishTime>06/18/2015 20:19:44</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="bin/StudyOne.dll">
-      <publishTime>11/28/2016 17:06:10</publishTime>
+      <publishTime>11/28/2016 17:33:32</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/clear.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/cloudy-scattered-showers.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/cloudy.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/cloudy_s_sunny.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/fog.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/icons/icon-128x128.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/icons/icon-144x144.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/icons/icon-152x152.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/icons/icon-192x192.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/icons/icon-256x256.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/icons/icon-32x32.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/ic_add_white_24px.svg">
       <publishTime>08/30/2016 00:41:40</publishTime>
@@ -121,46 +121,46 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/30/2016 00:41:40</publishTime>
     </File>
     <File Include="images/partly-cloudy.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/rain.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/scattered-showers.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/sleet.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/snow.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/thunderstorm.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="images/wind.png">
-      <publishTime>08/30/2016 00:41:40</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>11/28/2016 16:55:37</publishTime>
+      <publishTime>11/28/2016 17:07:02</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>11/28/2016 16:02:58</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="scripts/ai.0.22.9-build00167.js">
-      <publishTime>11/28/2016 16:02:58</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="scripts/ai.0.22.9-build00167.min.js">
-      <publishTime>11/28/2016 16:02:58</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="scripts/app.js">
-      <publishTime>11/28/2016 16:55:37</publishTime>
+      <publishTime>11/28/2016 17:23:57</publishTime>
     </File>
     <File Include="styles/inline.css">
       <publishTime>08/30/2016 00:41:40</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/28/2016 17:06:11</publishTime>
+      <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
   </ItemGroup>
 </Project>
