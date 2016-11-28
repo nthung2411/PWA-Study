@@ -157,7 +157,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/28/2016 17:23:57</publishTime>
     </File>
     <File Include="styles/inline.css">
-      <publishTime>11/28/2016 17:42:42</publishTime>
+      <publishTime>11/28/2016 17:57:38</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>11/28/2016 17:17:34</publishTime>
