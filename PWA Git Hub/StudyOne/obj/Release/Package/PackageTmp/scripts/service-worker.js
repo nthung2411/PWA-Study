@@ -1,4 +1,4 @@
-﻿var cacheName = 'weatherPWA-step-6-4';
+﻿var cacheName = 'weatherPWA-step-6-5';
 var filesToCache = [
   '../',
   '../favicon.ico',
