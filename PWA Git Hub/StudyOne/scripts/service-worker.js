@@ -1,6 +1,7 @@
-﻿var cacheName = 'weatherPWA-step-6-3';
+﻿var cacheName = 'weatherPWA-step-6-4';
 var filesToCache = [
   '../',
+  '../favicon.ico',
   '../index.html',
   '../scripts/app.js',
   '../styles/inline.css',
