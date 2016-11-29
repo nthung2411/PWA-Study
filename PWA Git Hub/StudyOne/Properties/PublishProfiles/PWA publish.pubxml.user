@@ -157,7 +157,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/29/2016 10:38:19</publishTime>
     </File>
     <File Include="scripts/service-worker.js">
-      <publishTime>11/29/2016 10:36:49</publishTime>
+      <publishTime>11/29/2016 11:06:30</publishTime>
     </File>
     <File Include="styles/inline.css">
       <publishTime>11/29/2016 09:23:36</publishTime>
