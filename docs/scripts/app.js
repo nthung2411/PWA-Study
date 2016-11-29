@@ -207,6 +207,7 @@
         };
         request.open('GET', url);
         request.send();
+        fetch('favicon.ico');
     };
 
     // Iterate all of the cards and attempt to get the latest forecast data
