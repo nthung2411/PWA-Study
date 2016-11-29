@@ -132,6 +132,7 @@
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="scripts\app.js" />
+    <Content Include="scripts\service-worker.js" />
     <Content Include="styles\inline.css" />
     <Content Include="Web.config" />
   </ItemGroup>
