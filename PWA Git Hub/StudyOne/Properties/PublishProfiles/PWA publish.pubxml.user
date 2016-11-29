@@ -142,7 +142,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/28/2016 17:17:34</publishTime>
     </File>
     <File Include="index.html">
-      <publishTime>11/28/2016 17:43:15</publishTime>
+      <publishTime>11/29/2016 10:15:00</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>11/28/2016 17:17:34</publishTime>
