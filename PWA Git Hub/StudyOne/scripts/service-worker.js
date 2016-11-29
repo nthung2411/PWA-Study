@@ -47,8 +47,16 @@ self.addEventListener('activate', function (e) {
 });
 
 self.addEventListener('fetch', function (e) {
-    console.log('[Service Worker] Fetch', e.request.url);
-    var dataUrl = 'https://query.yahooapis.com/v1/public/yql';
+    console.log(e.request);
+    console.log(e.request.url);
+    console.log(e.request.method);
+    console.log(e.request.headers);
+    e.respondWith(
+        caches.match(e.request).then(function (response) {
+            return response || fetch(e.request);
+        }));
+    //console.log('[Service Worker] Fetch', e.request.url);
+    //var dataUrl = 'https://query.yahooapis.com/v1/public/yql';
     //if (e.request.url.indexOf(dataUrl) > -1) {
     //    /*
     //     * When the request URL contains dataUrl, the app is asking for fresh
@@ -76,25 +84,5 @@ self.addEventListener('fetch', function (e) {
     //          return response || fetch(e.request);
     //      })
     //    );
-    //}
-
-    if (e.request.url.indexOf(dataUrl) === 0) {
-        // Put data handler code here
-        e.respondWith(
-          fetch(e.request)
-            .then(function (response) {
-                return caches.open(dataCacheName).then(function (cache) {
-                    cache.put(e.request.url, response.clone());
-                    console.log('[ServiceWorker] Fetched&Cached Data');
-                    return response;
-                });
-            })
-        );
-    } else {
-        e.respondWith(
-          caches.match(e.request).then(function (response) {
-              return response || fetch(e.request);
-          })
-        );
-    }
+    //}   
 });
